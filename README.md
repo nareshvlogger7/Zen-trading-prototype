@@ -26,7 +26,7 @@ Before running Trade Master, ensure you have the following prerequisites install
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ANANDAPADMANABHA/Trade-master.git
+https://github.com/nareshvlogger7/Zen-trading-prototype.git
    ```
 
 2. Navigate to the project directory:
@@ -98,4 +98,4 @@ We would like to thank the following individuals and organizations for their con
 
 ## Contact
 
-For any inquiries or support, please contact ananthapadmanabhan012@gmail.com
+For any inquiries or support, please contact nareshpnn111@gmail.com
